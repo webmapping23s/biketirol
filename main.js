@@ -66,3 +66,5 @@ let controlElevation = L.control.elevation({
     theme: "bike-tirol"
 }).addTo(map);
 controlElevation.load("data/etappe7.gpx");
+
+console.log(ETAPPEN)
