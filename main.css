@@ -44,6 +44,11 @@ article {
     border: 1px solid gray;
 }
 
+#profile {
+    border: 1px solid gray;
+    margin-top: 0.3em;
+}
+
 footer {
     font-family: "Roboto", sans-serif;
     font-size: 0.9em;
